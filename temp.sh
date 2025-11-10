@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Enter temperature in Celsius:"
 read c
 
