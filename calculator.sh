@@ -1,6 +1,4 @@
 #!/bin/bash
-
-# Ask the user for input
 echo "Enter first number: "
 read num1
 
